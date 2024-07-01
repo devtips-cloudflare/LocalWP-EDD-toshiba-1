@@ -10,7 +10,7 @@
 	<title>excursii-in-delta-dunarii</title>
 	<link>/</link>
 	<description></description>
-	<dc:date>2024-06-27T20:22:07Z	</dc:date>
+	<dc:date>2024-07-01T03:07:58Z	</dc:date>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,10 +19,65 @@
 	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.5.5" />
 	<items>
 		<rdf:Seq>
+					<rdf:li rdf:resource="/unde-am-aparut-pe-online/"/>
 					<rdf:li rdf:resource="/hello-world/"/>
 				</rdf:Seq>
 	</items>
 </channel>
+<item rdf:about="/unde-am-aparut-pe-online/">
+	<title>Unde am apărut pe online</title>
+	<link>/unde-am-aparut-pe-online/</link>
+
+	<dc:creator><![CDATA[david]]></dc:creator>
+	<dc:date>2024-07-01T03:05:02Z</dc:date>
+			<dc:subject><![CDATA[Uncategorized]]></dc:subject>
+
+			<description><![CDATA[Echipa noastră de excursii in Delta au facut niste trasee suficient de frumoase si au oferit o experientă suficient de plăcută să apărem pe mai multe siteuri, precum: Pe Pinterest sunt Colectii impresionante din vacante in delta Dunarii cu noi Uite AICI o colectie interesanta de poze si clipuri interesante din vacante in Deltă. Ne [&#8230;]]]></description>
+		<content:encoded><![CDATA[
+<p>Echipa noastră de <a href="/excursii-in-delta-dunarii/" data-type="page" data-id="12">excursii in Delta</a> au facut niste trasee suficient de frumoase si au oferit o experientă suficient de plăcută să apărem pe mai multe siteuri, precum:</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading has-white-color has-pale-cyan-blue-background-color has-text-color has-background has-link-color has-medium-font-size wp-elements-2eb25f76bce8f4c7df7f53a2b011dabb">Pe Pinterest sunt Colectii impresionante din vacante in delta Dunarii cu noi </h3>
+
+
+
+<p>Uite <a href="https://ro.pinterest.com/birouutopian/descopera-delta-dunarii-discover-danube-delta/" target="_blank" rel="noreferrer noopener nofollow">AICI </a>o colectie interesanta de poze  si clipuri interesante din vacante in Deltă.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading has-white-color has-pale-cyan-blue-background-color has-text-color has-background has-link-color has-medium-font-size wp-elements-bb311ccd737fe08c7f567c2fb99c7d82">Ne gasiti si pe Linkedin</h3>
+
+
+
+<p>Suntem prezenti si pe <a href="https://www.linkedin.com/in/nearchus-nautictour-boat-tours-in-the-delta-128867227/?originalSubdomain=ro" target="_blank" rel="noreferrer noopener nofollow">Linkedin</a> </p>
+
+
+
+<h3 class="wp-block-heading has-white-color has-pale-cyan-blue-background-color has-text-color has-background has-link-color has-medium-font-size wp-elements-74b10683547b99f8a1678499db7b8e2e">Legat de excursii in Delta Dunarii, stiai ca 3 din 4 romani NU au fost in Delta Dunarii?</h3>
+
+
+
+<h5 class="wp-block-heading">Site:Antena 3</h5>
+
+
+
+<p>Colegul nostru Jack si restul echipei noastre sunt<a href="https://www.antena3.ro/economic/continut-platit/vara-excursii-delta-nearchus-nautictour-628459.html" target="_blank" rel="noreferrer noopener nofollow"> mentionati pe siteul Antena 3</a>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.antena3.ro/thumbs/int/2022/02/08/vara-asta-alege-excursii-in-delta-cu-nearchus-nautictour-749694.jpg" alt=""/></figure>
+]]></content:encoded>
+	
+	</item>
 <item rdf:about="/hello-world/">
 	<title>Hello world!</title>
 	<link>/hello-world/</link>
